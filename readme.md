@@ -1,0 +1,1 @@
+replaceAptSource.sh  replace apt source to estc source
